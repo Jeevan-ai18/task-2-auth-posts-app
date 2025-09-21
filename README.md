@@ -10,7 +10,9 @@
 ### 4. Home Page showing Name + Phone
 ![Home Page](./screenshots/Screenshot%202025-09-21%20080328.png)
 
-### postman 
+### 4. home page 
+![Home Page](./screenshots/Screenshot%202025-09-21%20093410.png)
+
 
 
 # Day 2 Task: User Authentication App
