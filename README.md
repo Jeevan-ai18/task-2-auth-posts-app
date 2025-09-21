@@ -11,8 +11,7 @@
 ![Home Page](./screenshots/Screenshot%202025-09-21%20080328.png)
 
 ### 4. home page 
-![Home Page](./screenshots/Screenshot%202025-09-21%20093410.png)
-
+![Home Page](./Screenshots/Screenshot%202025-09-21%20093410.png)
 
 
 # Day 2 Task: User Authentication App
